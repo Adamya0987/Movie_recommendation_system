@@ -6,7 +6,6 @@ A machine learning-powered movie recommendation system that suggests similar mov
 
 - **Content-Based Filtering**: Recommends movies based on similar content (genres, cast, crew, keywords, overview)
 - **Interactive Web Interface**: Beautiful Streamlit-based web application
-- **Movie Posters**: Displays movie posters using The Movie Database (TMDB) API
 - **Real-time Recommendations**: Get instant movie suggestions with just one click
 - **Comprehensive Dataset**: Built on TMDB 5000 movies dataset with detailed metadata
 
@@ -216,3 +215,4 @@ The dataset used in this project is the **TMDB 5000 Movie Dataset** available on
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
